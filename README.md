@@ -1,6 +1,6 @@
 # Car-Game
 
-A simple car gamr built for android in Unity using the standard assets and C#. 
+A simple car game built for android in Unity using the standard assets and C#. 
 
 Below are a couple of screenshots from the game: 
 ![alt text](https://github.com/rahulbanerjee26/Car-Game/blob/master/Screenshot1.jpeg)
